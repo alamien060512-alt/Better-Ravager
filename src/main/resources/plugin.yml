@@ -1,0 +1,6 @@
+name: RavagerRide
+version: 1.0.0
+main: me.example.ravagerride.RavagerRidePlugin
+api-version: "1.21"
+author: ChatGPT
+description: Right-click ravagers to ride them.
